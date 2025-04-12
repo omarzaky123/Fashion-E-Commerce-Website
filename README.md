@@ -1,6 +1,6 @@
 # Fashion E-Commerce Website 🛍️
 
-![Fashion Store Preview](https://via.placeholder.com/800x400?text=Fashion+E-Commerce+Demo) _(Replace with actual screenshot)_
+![Fashion Store Preview](images/Screenshot%202025-04-12%20213825.png) _(Replace with actual screenshot)_
 
 A full-featured fashion e-commerce platform built with **C# ASP.NET MVC**, featuring user & admin roles, product browsing, cart management, and product ratings.
 
