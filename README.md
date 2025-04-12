@@ -35,9 +35,9 @@ A full-featured fashion e-commerce platform built with **C# ASP.NET MVC**, featu
 
 ### Prerequisites
 
-- Visual Studio 2019+
-- SQL Server 2016+
-- .NET Framework 4.7.2+
+- Visual Studio 2022+
+- SQL Server 2022+
+- .NET 8+
 
 ### Setup
 
