@@ -1,0 +1,773 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\E-commerce ITI - UI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\E-commerce ITI - UI.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\css\\DetailsAdmin.css",
+      "PackagePath": "staticwebassets\\css\\DetailsAdmin.css"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\css\\Form.css",
+      "PackagePath": "staticwebassets\\css\\Form.css"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\css\\IndexAdmin.css",
+      "PackagePath": "staticwebassets\\css\\IndexAdmin.css"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\css\\elegant-icons.css",
+      "PackagePath": "staticwebassets\\css\\elegant-icons.css"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\css\\hello.css",
+      "PackagePath": "staticwebassets\\css\\hello.css"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\css\\nice-select.css"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\css\\slicknav.min.css",
+      "PackagePath": "staticwebassets\\css\\slicknav.min.css"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\css\\style.css.map"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\fonts\\ElegantIcons.eot",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.eot"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\fonts\\ElegantIcons.svg",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.svg"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\fonts\\ElegantIcons.ttf",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.ttf"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\fonts\\ElegantIcons.woff",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.woff"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\img\\about\\about-us.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\about-us.jpg"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\img\\about\\team-1.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\team-1.jpg"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\img\\about\\team-2.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\team-2.jpg"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\img\\about\\team-3.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\team-3.jpg"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\img\\about\\team-4.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\team-4.jpg"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\img\\about\\testimonial-author.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\testimonial-author.jpg"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\img\\about\\testimonial-pic.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\testimonial-pic.jpg"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\img\\banner\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\img\\banner\\banner-1.jpg"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\img\\banner\\banner-2.jpg",
+      "PackagePath": "staticwebassets\\img\\banner\\banner-2.jpg"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\img\\banner\\banner-3.jpg",
+      "PackagePath": "staticwebassets\\img\\banner\\banner-3.jpg"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\img\\blog\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-1.jpg"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\img\\blog\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-2.jpg"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\img\\blog\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-3.jpg"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\img\\blog\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-4.jpg"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\img\\blog\\blog-5.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-5.jpg"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\img\\blog\\blog-6.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-6.jpg"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\img\\blog\\blog-7.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-7.jpg"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\img\\blog\\blog-8.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-8.jpg"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\img\\blog\\blog-9.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-9.jpg"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\img\\blog\\details\\blog-author.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\details\\blog-author.jpg"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\img\\blog\\details\\blog-details.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\details\\blog-details.jpg"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\img\\breadcrumb-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\breadcrumb-bg.jpg"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\img\\clients\\client-1.png",
+      "PackagePath": "staticwebassets\\img\\clients\\client-1.png"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\img\\clients\\client-2.png",
+      "PackagePath": "staticwebassets\\img\\clients\\client-2.png"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\img\\clients\\client-3.png",
+      "PackagePath": "staticwebassets\\img\\clients\\client-3.png"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\img\\clients\\client-4.png",
+      "PackagePath": "staticwebassets\\img\\clients\\client-4.png"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\img\\clients\\client-5.png",
+      "PackagePath": "staticwebassets\\img\\clients\\client-5.png"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\img\\clients\\client-6.png",
+      "PackagePath": "staticwebassets\\img\\clients\\client-6.png"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\img\\clients\\client-7.png",
+      "PackagePath": "staticwebassets\\img\\clients\\client-7.png"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\img\\clients\\client-8.png",
+      "PackagePath": "staticwebassets\\img\\clients\\client-8.png"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\img\\footer-logo.png",
+      "PackagePath": "staticwebassets\\img\\footer-logo.png"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\img\\hero\\hero-1.jpg",
+      "PackagePath": "staticwebassets\\img\\hero\\hero-1.jpg"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\img\\hero\\hero-2.jpg",
+      "PackagePath": "staticwebassets\\img\\hero\\hero-2.jpg"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\img\\icon\\calendar.png",
+      "PackagePath": "staticwebassets\\img\\icon\\calendar.png"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\img\\icon\\cart.png",
+      "PackagePath": "staticwebassets\\img\\icon\\cart.png"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\img\\icon\\compare.png",
+      "PackagePath": "staticwebassets\\img\\icon\\compare.png"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\img\\icon\\heart.png",
+      "PackagePath": "staticwebassets\\img\\icon\\heart.png"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\img\\icon\\search.png",
+      "PackagePath": "staticwebassets\\img\\icon\\search.png"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\img\\instagram\\instagram-1.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\instagram-1.jpg"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\img\\instagram\\instagram-2.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\instagram-2.jpg"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\img\\instagram\\instagram-3.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\instagram-3.jpg"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\img\\instagram\\instagram-4.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\instagram-4.jpg"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\img\\instagram\\instagram-5.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\instagram-5.jpg"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\img\\instagram\\instagram-6.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\instagram-6.jpg"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\img\\payment.png",
+      "PackagePath": "staticwebassets\\img\\payment.png"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\img\\product-sale.png",
+      "PackagePath": "staticwebassets\\img\\product-sale.png"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\img\\product\\product-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-1.jpg"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\img\\product\\product-10.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-10.jpg"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\img\\product\\product-11.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-11.jpg"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\img\\product\\product-12.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-12.jpg"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\img\\product\\product-13.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-13.jpg"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\img\\product\\product-14.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-14.jpg"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\img\\product\\product-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-2.jpg"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\img\\product\\product-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-3.jpg"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\img\\product\\product-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-4.jpg"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\img\\product\\product-5.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-5.jpg"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\img\\product\\product-6.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-6.jpg"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\img\\product\\product-7.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-7.jpg"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\img\\product\\product-8.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-8.jpg"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\img\\product\\product-9.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-9.jpg"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\img\\shop-details\\details-payment.png",
+      "PackagePath": "staticwebassets\\img\\shop-details\\details-payment.png"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\img\\shop-details\\product-big-2.png",
+      "PackagePath": "staticwebassets\\img\\shop-details\\product-big-2.png"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\img\\shop-details\\product-big-3.png",
+      "PackagePath": "staticwebassets\\img\\shop-details\\product-big-3.png"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\img\\shop-details\\product-big-4.png",
+      "PackagePath": "staticwebassets\\img\\shop-details\\product-big-4.png"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\img\\shop-details\\product-big.png",
+      "PackagePath": "staticwebassets\\img\\shop-details\\product-big.png"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\img\\shop-details\\thumb-1.png",
+      "PackagePath": "staticwebassets\\img\\shop-details\\thumb-1.png"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\img\\shop-details\\thumb-2.png",
+      "PackagePath": "staticwebassets\\img\\shop-details\\thumb-2.png"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\img\\shop-details\\thumb-3.png",
+      "PackagePath": "staticwebassets\\img\\shop-details\\thumb-3.png"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\img\\shop-details\\thumb-4.png",
+      "PackagePath": "staticwebassets\\img\\shop-details\\thumb-4.png"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\img\\shopping-cart\\cart-1.jpg",
+      "PackagePath": "staticwebassets\\img\\shopping-cart\\cart-1.jpg"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\img\\shopping-cart\\cart-2.jpg",
+      "PackagePath": "staticwebassets\\img\\shopping-cart\\cart-2.jpg"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\img\\shopping-cart\\cart-3.jpg",
+      "PackagePath": "staticwebassets\\img\\shopping-cart\\cart-3.jpg"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\img\\shopping-cart\\cart-4.jpg",
+      "PackagePath": "staticwebassets\\img\\shopping-cart\\cart-4.jpg"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\js\\jquery.countdown.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.countdown.min.js"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\js\\jquery.nicescroll.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.nicescroll.min.js"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\js\\jquery.slicknav.js",
+      "PackagePath": "staticwebassets\\js\\jquery.slicknav.js"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\js\\mixitup.min.js",
+      "PackagePath": "staticwebassets\\js\\mixitup.min.js"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\sass\\_about.scss",
+      "PackagePath": "staticwebassets\\sass\\_about.scss"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\sass\\_base.scss",
+      "PackagePath": "staticwebassets\\sass\\_base.scss"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\sass\\_blog-details.scss",
+      "PackagePath": "staticwebassets\\sass\\_blog-details.scss"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\sass\\_blog-sidebar.scss",
+      "PackagePath": "staticwebassets\\sass\\_blog-sidebar.scss"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\sass\\_blog.scss",
+      "PackagePath": "staticwebassets\\sass\\_blog.scss"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\sass\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\sass\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\sass\\_checkout.scss",
+      "PackagePath": "staticwebassets\\sass\\_checkout.scss"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\sass\\_contact.scss",
+      "PackagePath": "staticwebassets\\sass\\_contact.scss"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\sass\\_footer.scss",
+      "PackagePath": "staticwebassets\\sass\\_footer.scss"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\sass\\_header.scss",
+      "PackagePath": "staticwebassets\\sass\\_header.scss"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\sass\\_hero.scss",
+      "PackagePath": "staticwebassets\\sass\\_hero.scss"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\sass\\_home-page.scss",
+      "PackagePath": "staticwebassets\\sass\\_home-page.scss"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\sass\\_mixins.scss",
+      "PackagePath": "staticwebassets\\sass\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\sass\\_product.scss",
+      "PackagePath": "staticwebassets\\sass\\_product.scss"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\sass\\_responsive.scss",
+      "PackagePath": "staticwebassets\\sass\\_responsive.scss"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\sass\\_shop-details.scss",
+      "PackagePath": "staticwebassets\\sass\\_shop-details.scss"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\sass\\_shop.scss",
+      "PackagePath": "staticwebassets\\sass\\_shop.scss"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\sass\\_shopping-cart.scss",
+      "PackagePath": "staticwebassets\\sass\\_shopping-cart.scss"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\sass\\_variable.scss",
+      "PackagePath": "staticwebassets\\sass\\_variable.scss"
+    },
+    {
+      "Id": "D:\\asp.net course\\MvcProject02ITiMonth\\ITI Project v2\\ITI Project v2\\E-commerce ITI - UI\\E-commerce ITI - UI\\wwwroot\\sass\\style.scss",
+      "PackagePath": "staticwebassets\\sass\\style.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.E-commerce ITI - UI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.E-commerce ITI - UI.props",
+      "PackagePath": "build\\E-commerce ITI - UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.E-commerce ITI - UI.props",
+      "PackagePath": "buildMultiTargeting\\E-commerce ITI - UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.E-commerce ITI - UI.props",
+      "PackagePath": "buildTransitive\\E-commerce ITI - UI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

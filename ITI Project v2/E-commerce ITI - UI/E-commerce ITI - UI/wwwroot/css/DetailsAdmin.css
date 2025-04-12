@@ -1,0 +1,38 @@
+﻿img {
+    width: 100%;
+}
+
+.MyContainer {
+    display: grid;
+    grid-template-columns: repeat(auto-fill,minmax(200px,1fr));
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.MyCard,.MyCard02 {
+ 
+    text-align: center;
+    box-shadow: 1px 1px 3px 0px #b9b5b5;
+}
+.MyCard02{
+     width:200px;
+         }
+    .MyText h5, h4 {
+        margin-top: 10px;
+    }
+
+     .MyText p {
+        margin: 10px 0 10px;
+        color: #777;
+        font-size: 15px;
+    }
+
+    .MyText a {
+        text-decoration: none;
+        background-color: #e0d9be;
+        color: black;
+        padding: 5px 10px;
+        border-radius: 5px;
+        font-size: 16px;
+        display: block;
+    }

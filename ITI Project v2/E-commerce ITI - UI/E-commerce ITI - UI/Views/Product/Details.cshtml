@@ -1,0 +1,19 @@
+﻿@model Product
+@{
+    Layout = "_AdminLayout";
+}
+<h1>Details</h1>
+<link href="~/css/DetailsAdmin.css" rel="stylesheet" />
+<div class="MyContainer">
+    <div class="MyCard02">
+        <img src="/img/product/@Model.Image">
+        <div class="MyText">
+            <h5>@Model.Name<h5>
+            <p>Category @Model.Category.Name<p>
+            <p>@Model.Descripition</p>
+            <p>Price @Model.Price</p>
+            <p>Stock @Model.Stock</p>
+            <a href="https://localhost:44396/Product/IndexAdmin" class="MyButton">Go Back</a>
+        </div>
+    </div>
+</div>

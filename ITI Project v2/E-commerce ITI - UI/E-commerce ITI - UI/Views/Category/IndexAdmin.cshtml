@@ -1,0 +1,30 @@
+﻿@model List<Category>
+@{
+	Layout = "_AdminLayout";
+}
+<link href="/css/IndexAdmin.css" rel="stylesheet" />
+<h1>All Catogories</h1>
+<table class="table  table-hover">
+	<thead>
+	<th>Thumbnail</th>
+	<th>Name</th>
+	<th>Description</th>
+	<th colspan="3">Details</th>
+	</thead>
+	<tbody>
+		@foreach (Category cat in Model)
+		{
+			<tr>
+				<td><img src="/img/@cat.Thumbnail" alt="Alternate Text" /></td>
+				<td>@cat.Name</td>
+				<td>@cat.Description</td>
+				<td><a asp-controller="Category" asp-action="Details" asp-route-id="@cat.Id"class="Special">Details</a></td>
+				<td><a asp-controller="Category" asp-action="UpdateForm" asp-route-id="@cat.Id" class="Special">Update</a></td>
+				<td><a asp-controller="Category" asp-action="Delete" asp-route-id="@cat.Id" class="Special">Delete</a></td>
+			</tr>
+		}
+	</tbody>
+</table>
+<a class="Special" asp-controller="Category" asp-action="InsertForm">Add Catogory</a>
+
+

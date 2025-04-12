@@ -1,0 +1,33 @@
+﻿@model Category
+<h1>Update Category</h1>
+@{
+	Layout = "_AdminLayout";
+}
+<link href="/css/Form.css" rel="stylesheet" />
+<form asp-controller="Category" asp-action="SaveUpdate" method="post" asp-route-id="@Model.Id">
+	<div class="Text">
+		<label asp-for="Thumbnail"></label>
+		<input type="text" asp-for="Thumbnail" value="@Model.Thumbnail" />
+		<span asp-validation-for="Thumbnail" class="text-danger"></span>
+	</div>
+
+	<div class="Text">
+		<label asp-for="Name"></label>
+		<input type="text" asp-for="Name" value="@Model.Name" />
+		<span asp-validation-for="Name" class="text-danger"></span>
+	</div>
+
+	<div class="Text">
+		<label asp-for="Description"></label>
+		<input type="text" asp-for="Description" value="@Model.Description" />
+		<span asp-validation-for="Description" class="text-danger"></span>
+	</div>
+
+	<input type="submit" value="Add" class="Submit" />
+</form>
+
+@section Scripts {
+	@* <script src="~/lib/jquery/dist/jquery.min.js"></script> *@
+	<script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+	<script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+}

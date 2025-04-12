@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\E-commerce ITI - UI.props" />
+</Project>

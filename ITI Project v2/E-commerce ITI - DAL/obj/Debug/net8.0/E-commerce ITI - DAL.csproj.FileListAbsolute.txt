@@ -1,0 +1,75 @@
+D:\WebApplication\E-commerce ITI - DAL\obj\Debug\net8.0\E-commerce ITI - DAL.csproj.AssemblyReference.cache
+D:\WebApplication\E-commerce ITI - DAL\obj\Debug\net8.0\E-commerce ITI - DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebApplication\E-commerce ITI - DAL\obj\Debug\net8.0\E-commerce ITI - DAL.AssemblyInfoInputs.cache
+D:\WebApplication\E-commerce ITI - DAL\obj\Debug\net8.0\E-commerce ITI - DAL.AssemblyInfo.cs
+D:\WebApplication\E-commerce ITI - DAL\obj\Debug\net8.0\E-commerce ITI - DAL.csproj.CoreCompileInputs.cache
+D:\WebApplication\E-commerce ITI - DAL\bin\Debug\net8.0\E-commerce ITI - DAL.deps.json
+D:\WebApplication\E-commerce ITI - DAL\bin\Debug\net8.0\E-commerce ITI - DAL.dll
+D:\WebApplication\E-commerce ITI - DAL\bin\Debug\net8.0\E-commerce ITI - DAL.pdb
+D:\WebApplication\E-commerce ITI - DAL\bin\Debug\net8.0\E-commerce ITI - Entities.dll
+D:\WebApplication\E-commerce ITI - DAL\bin\Debug\net8.0\E-commerce ITI - Entities.pdb
+D:\WebApplication\E-commerce ITI - DAL\obj\Debug\net8.0\E-commer.E7686838.Up2Date
+D:\WebApplication\E-commerce ITI - DAL\obj\Debug\net8.0\E-commerce ITI - DAL.dll
+D:\WebApplication\E-commerce ITI - DAL\obj\Debug\net8.0\refint\E-commerce ITI - DAL.dll
+D:\WebApplication\E-commerce ITI - DAL\obj\Debug\net8.0\E-commerce ITI - DAL.pdb
+D:\WebApplication\E-commerce ITI - DAL\obj\Debug\net8.0\ref\E-commerce ITI - DAL.dll
+D:\WebApplication\ITI Project\E-commerce ITI - DAL\bin\Debug\net8.0\E-commerce ITI - DAL.deps.json
+D:\WebApplication\ITI Project\E-commerce ITI - DAL\bin\Debug\net8.0\E-commerce ITI - DAL.dll
+D:\WebApplication\ITI Project\E-commerce ITI - DAL\bin\Debug\net8.0\E-commerce ITI - DAL.pdb
+D:\WebApplication\ITI Project\E-commerce ITI - DAL\bin\Debug\net8.0\E-commerce ITI - Entities.dll
+D:\WebApplication\ITI Project\E-commerce ITI - DAL\bin\Debug\net8.0\E-commerce ITI - Entities.pdb
+D:\WebApplication\ITI Project\E-commerce ITI - DAL\obj\Debug\net8.0\E-commerce ITI - DAL.csproj.AssemblyReference.cache
+D:\WebApplication\ITI Project\E-commerce ITI - DAL\obj\Debug\net8.0\E-commerce ITI - DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebApplication\ITI Project\E-commerce ITI - DAL\obj\Debug\net8.0\E-commerce ITI - DAL.AssemblyInfoInputs.cache
+D:\WebApplication\ITI Project\E-commerce ITI - DAL\obj\Debug\net8.0\E-commerce ITI - DAL.AssemblyInfo.cs
+D:\WebApplication\ITI Project\E-commerce ITI - DAL\obj\Debug\net8.0\E-commerce ITI - DAL.csproj.CoreCompileInputs.cache
+D:\WebApplication\ITI Project\E-commerce ITI - DAL\obj\Debug\net8.0\E-commer.E7686838.Up2Date
+D:\WebApplication\ITI Project\E-commerce ITI - DAL\obj\Debug\net8.0\E-commerce ITI - DAL.dll
+D:\WebApplication\ITI Project\E-commerce ITI - DAL\obj\Debug\net8.0\refint\E-commerce ITI - DAL.dll
+D:\WebApplication\ITI Project\E-commerce ITI - DAL\obj\Debug\net8.0\E-commerce ITI - DAL.pdb
+D:\WebApplication\ITI Project\E-commerce ITI - DAL\obj\Debug\net8.0\ref\E-commerce ITI - DAL.dll
+D:\asp.net course\MvcProject02ITiMonth\ITI Project v1-20240930T134058Z-001\ITI Project v1\E-commerce ITI - DAL\bin\Debug\net8.0\E-commerce ITI - DAL.deps.json
+D:\asp.net course\MvcProject02ITiMonth\ITI Project v1-20240930T134058Z-001\ITI Project v1\E-commerce ITI - DAL\bin\Debug\net8.0\E-commerce ITI - DAL.dll
+D:\asp.net course\MvcProject02ITiMonth\ITI Project v1-20240930T134058Z-001\ITI Project v1\E-commerce ITI - DAL\bin\Debug\net8.0\E-commerce ITI - DAL.pdb
+D:\asp.net course\MvcProject02ITiMonth\ITI Project v1-20240930T134058Z-001\ITI Project v1\E-commerce ITI - DAL\bin\Debug\net8.0\E-commerce ITI - Entities.dll
+D:\asp.net course\MvcProject02ITiMonth\ITI Project v1-20240930T134058Z-001\ITI Project v1\E-commerce ITI - DAL\bin\Debug\net8.0\E-commerce ITI - Entities.pdb
+D:\asp.net course\MvcProject02ITiMonth\ITI Project v1-20240930T134058Z-001\ITI Project v1\E-commerce ITI - DAL\obj\Debug\net8.0\E-commerce ITI - DAL.csproj.AssemblyReference.cache
+D:\asp.net course\MvcProject02ITiMonth\ITI Project v1-20240930T134058Z-001\ITI Project v1\E-commerce ITI - DAL\obj\Debug\net8.0\E-commerce ITI - DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp.net course\MvcProject02ITiMonth\ITI Project v1-20240930T134058Z-001\ITI Project v1\E-commerce ITI - DAL\obj\Debug\net8.0\E-commerce ITI - DAL.AssemblyInfoInputs.cache
+D:\asp.net course\MvcProject02ITiMonth\ITI Project v1-20240930T134058Z-001\ITI Project v1\E-commerce ITI - DAL\obj\Debug\net8.0\E-commerce ITI - DAL.AssemblyInfo.cs
+D:\asp.net course\MvcProject02ITiMonth\ITI Project v1-20240930T134058Z-001\ITI Project v1\E-commerce ITI - DAL\obj\Debug\net8.0\E-commerce ITI - DAL.csproj.CoreCompileInputs.cache
+D:\asp.net course\MvcProject02ITiMonth\ITI Project v1-20240930T134058Z-001\ITI Project v1\E-commerce ITI - DAL\obj\Debug\net8.0\E-commer.E7686838.Up2Date
+D:\asp.net course\MvcProject02ITiMonth\ITI Project v1-20240930T134058Z-001\ITI Project v1\E-commerce ITI - DAL\obj\Debug\net8.0\E-commerce ITI - DAL.dll
+D:\asp.net course\MvcProject02ITiMonth\ITI Project v1-20240930T134058Z-001\ITI Project v1\E-commerce ITI - DAL\obj\Debug\net8.0\refint\E-commerce ITI - DAL.dll
+D:\asp.net course\MvcProject02ITiMonth\ITI Project v1-20240930T134058Z-001\ITI Project v1\E-commerce ITI - DAL\obj\Debug\net8.0\E-commerce ITI - DAL.pdb
+D:\asp.net course\MvcProject02ITiMonth\ITI Project v1-20240930T134058Z-001\ITI Project v1\E-commerce ITI - DAL\obj\Debug\net8.0\ref\E-commerce ITI - DAL.dll
+C:\Users\DahyX2000\Downloads\Compressed\ITI Project v2-20240930T134058Z-001\ITI Project v1\E-commerce ITI - DAL\bin\Debug\net8.0\E-commerce ITI - DAL.deps.json
+C:\Users\DahyX2000\Downloads\Compressed\ITI Project v2-20240930T134058Z-001\ITI Project v1\E-commerce ITI - DAL\bin\Debug\net8.0\E-commerce ITI - DAL.dll
+C:\Users\DahyX2000\Downloads\Compressed\ITI Project v2-20240930T134058Z-001\ITI Project v1\E-commerce ITI - DAL\bin\Debug\net8.0\E-commerce ITI - DAL.pdb
+C:\Users\DahyX2000\Downloads\Compressed\ITI Project v2-20240930T134058Z-001\ITI Project v1\E-commerce ITI - DAL\bin\Debug\net8.0\E-commerce ITI - Entities.dll
+C:\Users\DahyX2000\Downloads\Compressed\ITI Project v2-20240930T134058Z-001\ITI Project v1\E-commerce ITI - DAL\bin\Debug\net8.0\E-commerce ITI - Entities.pdb
+C:\Users\DahyX2000\Downloads\Compressed\ITI Project v2-20240930T134058Z-001\ITI Project v1\E-commerce ITI - DAL\obj\Debug\net8.0\E-commerce ITI - DAL.csproj.AssemblyReference.cache
+C:\Users\DahyX2000\Downloads\Compressed\ITI Project v2-20240930T134058Z-001\ITI Project v1\E-commerce ITI - DAL\obj\Debug\net8.0\E-commerce ITI - DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DahyX2000\Downloads\Compressed\ITI Project v2-20240930T134058Z-001\ITI Project v1\E-commerce ITI - DAL\obj\Debug\net8.0\E-commerce ITI - DAL.AssemblyInfoInputs.cache
+C:\Users\DahyX2000\Downloads\Compressed\ITI Project v2-20240930T134058Z-001\ITI Project v1\E-commerce ITI - DAL\obj\Debug\net8.0\E-commerce ITI - DAL.AssemblyInfo.cs
+C:\Users\DahyX2000\Downloads\Compressed\ITI Project v2-20240930T134058Z-001\ITI Project v1\E-commerce ITI - DAL\obj\Debug\net8.0\E-commerce ITI - DAL.csproj.CoreCompileInputs.cache
+C:\Users\DahyX2000\Downloads\Compressed\ITI Project v2-20240930T134058Z-001\ITI Project v1\E-commerce ITI - DAL\obj\Debug\net8.0\E-commer.E7686838.Up2Date
+C:\Users\DahyX2000\Downloads\Compressed\ITI Project v2-20240930T134058Z-001\ITI Project v1\E-commerce ITI - DAL\obj\Debug\net8.0\E-commerce ITI - DAL.dll
+C:\Users\DahyX2000\Downloads\Compressed\ITI Project v2-20240930T134058Z-001\ITI Project v1\E-commerce ITI - DAL\obj\Debug\net8.0\refint\E-commerce ITI - DAL.dll
+C:\Users\DahyX2000\Downloads\Compressed\ITI Project v2-20240930T134058Z-001\ITI Project v1\E-commerce ITI - DAL\obj\Debug\net8.0\E-commerce ITI - DAL.pdb
+C:\Users\DahyX2000\Downloads\Compressed\ITI Project v2-20240930T134058Z-001\ITI Project v1\E-commerce ITI - DAL\obj\Debug\net8.0\ref\E-commerce ITI - DAL.dll
+D:\asp.net course\MvcProject02ITiMonth\ITI Project v2\ITI Project v2\E-commerce ITI - DAL\bin\Debug\net8.0\E-commerce ITI - DAL.deps.json
+D:\asp.net course\MvcProject02ITiMonth\ITI Project v2\ITI Project v2\E-commerce ITI - DAL\bin\Debug\net8.0\E-commerce ITI - DAL.dll
+D:\asp.net course\MvcProject02ITiMonth\ITI Project v2\ITI Project v2\E-commerce ITI - DAL\bin\Debug\net8.0\E-commerce ITI - DAL.pdb
+D:\asp.net course\MvcProject02ITiMonth\ITI Project v2\ITI Project v2\E-commerce ITI - DAL\bin\Debug\net8.0\E-commerce ITI - Entities.dll
+D:\asp.net course\MvcProject02ITiMonth\ITI Project v2\ITI Project v2\E-commerce ITI - DAL\bin\Debug\net8.0\E-commerce ITI - Entities.pdb
+D:\asp.net course\MvcProject02ITiMonth\ITI Project v2\ITI Project v2\E-commerce ITI - DAL\obj\Debug\net8.0\E-commerce ITI - DAL.csproj.AssemblyReference.cache
+D:\asp.net course\MvcProject02ITiMonth\ITI Project v2\ITI Project v2\E-commerce ITI - DAL\obj\Debug\net8.0\E-commerce ITI - DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp.net course\MvcProject02ITiMonth\ITI Project v2\ITI Project v2\E-commerce ITI - DAL\obj\Debug\net8.0\E-commerce ITI - DAL.AssemblyInfoInputs.cache
+D:\asp.net course\MvcProject02ITiMonth\ITI Project v2\ITI Project v2\E-commerce ITI - DAL\obj\Debug\net8.0\E-commerce ITI - DAL.AssemblyInfo.cs
+D:\asp.net course\MvcProject02ITiMonth\ITI Project v2\ITI Project v2\E-commerce ITI - DAL\obj\Debug\net8.0\E-commerce ITI - DAL.csproj.CoreCompileInputs.cache
+D:\asp.net course\MvcProject02ITiMonth\ITI Project v2\ITI Project v2\E-commerce ITI - DAL\obj\Debug\net8.0\E-commer.E7686838.Up2Date
+D:\asp.net course\MvcProject02ITiMonth\ITI Project v2\ITI Project v2\E-commerce ITI - DAL\obj\Debug\net8.0\E-commerce ITI - DAL.dll
+D:\asp.net course\MvcProject02ITiMonth\ITI Project v2\ITI Project v2\E-commerce ITI - DAL\obj\Debug\net8.0\refint\E-commerce ITI - DAL.dll
+D:\asp.net course\MvcProject02ITiMonth\ITI Project v2\ITI Project v2\E-commerce ITI - DAL\obj\Debug\net8.0\E-commerce ITI - DAL.pdb
+D:\asp.net course\MvcProject02ITiMonth\ITI Project v2\ITI Project v2\E-commerce ITI - DAL\obj\Debug\net8.0\ref\E-commerce ITI - DAL.dll

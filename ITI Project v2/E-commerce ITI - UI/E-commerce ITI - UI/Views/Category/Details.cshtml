@@ -1,0 +1,28 @@
+﻿@model CategoryDetails
+@{
+    Layout = "_AdminLayout";
+}
+<h1>Details</h1>
+<link href="~/css/DetailsAdmin.css" rel="stylesheet" />
+<div class="MyCard">
+    <div class="MyText">
+        <h4>@Model.CategoryName</h4>
+        <p>@Model.CategoryDescripition</p>
+        <a href="https://localhost:44396/Category/IndexAdmin" class="MyButton">Go Back</a>
+    </div>
+</div>
+<h1>Products</h1>
+<div class="MyContainer">
+    @foreach (Product prd in Model.Products)
+    {
+        <div class="MyCard">
+            <div class="MyText">
+                <img src="/img/product/@prd.Image" />
+                <h4>@prd.Name<h4>
+                <p> Name @prd.Descripition</p>
+                <p> Price @prd.Price $</p>
+                <p> Stock @prd.Stock</p>
+            </div>
+        </div>
+    }
+</div>

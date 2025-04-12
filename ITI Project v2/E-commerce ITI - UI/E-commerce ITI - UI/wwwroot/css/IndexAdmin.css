@@ -1,0 +1,12 @@
+﻿.Special {
+    background-color: #e0d9be;
+    text-decoration: none;
+    padding: 5px 15px;
+    color: black;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+td, th {
+    text-align: center;
+}
