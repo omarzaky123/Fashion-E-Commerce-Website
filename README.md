@@ -1,13 +1,11 @@
 # Fashion E-Commerce Website 🛍️
 
-<<<<<<< HEAD
-=======
 ## 🌟 Live Demo
+
 Experience the working application: [https://e-commercewebsite.tryasp.net/](https://e-commercewebsite.tryasp.net/)
 
-![Fashion Store Preview](https://via.placeholder.com/800x400?text=Fashion+E-Commerce+Demo) _(Replace with actual screenshot)_
+![Fashion Store Preview](images/Screenshot%202025-04-12%20213825.png) _(Replace with actual screenshot)_
 
->>>>>>> 939db38e30d8b194ce9c02f765fbb692f7daa3ec
 A full-featured fashion e-commerce platform built with **C# ASP.NET MVC**, featuring user & admin roles, product browsing, cart management, and product ratings.
 
 ## ✨ Features
@@ -50,3 +48,4 @@ A full-featured fashion e-commerce platform built with **C# ASP.NET MVC**, featu
 1. Clone the repo:
    ```bash
    git clone https://github.com/yourusername/Fashion-E-Commerce-Website.git
+   ```
