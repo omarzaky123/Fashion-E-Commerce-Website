@@ -27,10 +27,9 @@ A full-featured fashion e-commerce platform built with **C# ASP.NET MVC**, featu
 | Category         | Technologies Used                     |
 | ---------------- | ------------------------------------- |
 | **Frontend**     | HTML5, CSS3, JavaScript, AJAX, jQuery |
-| **Backend**      | C#, ASP.NET MVC 5                     |
+| **Backend**      | C#, ASP.NET MVC 8                     |
 | **Database**     | SQL Server, Entity Framework          |
 | **Architecture** | MVC Pattern                           |
-| **Other**        | Bootstrap, LINQ                       |
 
 ## 📦 Installation
 
